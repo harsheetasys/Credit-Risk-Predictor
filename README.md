@@ -75,6 +75,7 @@ SHAP values explain model decisions by quantifying feature impacts:
 🚀 **Quick Start**:  
 ## 📦 Requirements
 Install required libraries using:
+
 pip install lightgbm shap pandas numpy streamlit gradio scikit-learn matplotlib
-jupyter notebook Credit_Risk_Predictor.ipynb
+
 
