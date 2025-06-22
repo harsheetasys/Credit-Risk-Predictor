@@ -33,7 +33,7 @@ The dataset `credit_risk_dataset.csv` contains the following key features:
 - **Accuracy**: 0.9232  
 These metrics indicate strong predictive performance for identifying high-risk loan applicants.  
 
-## � How to Use
+## How to Use
 1. **Run the Notebook**:  
    - Open `Credit_Risk_Predictor.ipynb` in **Jupyter Notebook** or **Google Colab**.  
 2. **Data Preparation**:  
@@ -73,11 +73,8 @@ SHAP values explain model decisions by quantifying feature impacts:
 ---
 
 🚀 **Quick Start**:  
-```bash
-jupyter notebook Credit_Risk_Predictor.ipynb
 ## 📦 Requirements
-
 Install required libraries using:
-
-```bash
 pip install lightgbm shap pandas numpy streamlit gradio scikit-learn matplotlib
+jupyter notebook Credit_Risk_Predictor.ipynb
+
