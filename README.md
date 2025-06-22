@@ -23,7 +23,7 @@ Install required libraries using:
 ```bash
 pip install lightgbm shap pandas numpy streamlit gradio scikit-learn matplotlib
 
-## 📂 Dataset
+📂 Dataset
 File: credit_risk_dataset.csv
 
 Key features include:
