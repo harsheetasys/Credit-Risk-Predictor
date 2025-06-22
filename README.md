@@ -24,7 +24,8 @@ Install required libraries using:
 pip install lightgbm shap pandas numpy streamlit gradio scikit-learn matplotlib
 
 ---
-📂 Dataset
+
+## 📂 Dataset
 File: credit_risk_dataset.csv
 Key features include:
 person_age: Age of the applicant
